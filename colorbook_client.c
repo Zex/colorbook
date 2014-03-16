@@ -11,6 +11,7 @@
 int run()
 {
 	show_color_word();
+	return 0;
 }
 
 int main(void)
